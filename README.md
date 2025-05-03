@@ -1,9 +1,3 @@
-# sup?, me name dapa 👋
-
-## Who am I?
-
-A vibe coder
-
 ## 📈 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairuonwork&show_icons=true&theme=tokyonight) <br>
